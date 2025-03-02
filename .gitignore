@@ -1,0 +1,7 @@
+# ignored files and folders
+.vs
+x64
+*.sln
+*.vcxproj
+*.filters
+*.user
